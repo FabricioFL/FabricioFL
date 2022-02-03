@@ -1,7 +1,6 @@
 ## Olá, meu nome é Fabrício 👾
 
 #### > estou estudando atualmente:
-       ▶ php 🐘
        ▶ laravel 🗂️
        ▶ python 🐍
        ▶ javascript 📜
