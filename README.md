@@ -2,6 +2,7 @@
 
 #### > estou estudando atualmente:
        ▶ php 🐘
+       ▶ laravel 🗂️
        ▶ python 🐍
        ▶ javascript 📜
        
