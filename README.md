@@ -1,5 +1,8 @@
 ## Olá, meu nome é Fabrício 👾
 
+###
+       Sou um estudante de TI e desenvolvedor de software.
+
 <div style="display: flex;">
        <img src="https://i.pinimg.com/originals/8d/fc/61/8dfc61f7385699490966086385dd164f.gif">
 </div>
@@ -13,6 +16,7 @@
       ▶ arte digital 🎨
 
 <br>
+
 <div align='center'>
        <a align='center'>Minhas skills:</a><br><br>
        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
