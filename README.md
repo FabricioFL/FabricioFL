@@ -1,7 +1,5 @@
-## Olá, meu nome é Fabrício 👾
 
-###
-       Sou um estudante de TI e desenvolvedor de software.
+## Olá, meu nome é Fabrício, Sou um estudante de TI e desenvolvedor de software.
 
 <div style="display: flex;">
        <img src="https://i.pinimg.com/originals/8d/fc/61/8dfc61f7385699490966086385dd164f.gif">
