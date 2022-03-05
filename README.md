@@ -1,6 +1,10 @@
 ## Olá, meu nome é Fabrício 👾
 
-<img src="https://pa1.narvii.com/6406/276f23bf4a06ed5ac484dfba2147c2936da74634_hq.gif">
+<div style="display: flex;">
+       <img src="https://c.tenor.com/ljyEowc6RBMAAAAC/konosuba-anime.gif">
+       <img src="https://c.tenor.com/9Wi3EC_XxwAAAAAM/happy-dance-dancing.gif">
+       <img src="https://c.tenor.com/wgV5tVDd24QAAAAC/konosuba-dance.gif">
+</div>
 
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
