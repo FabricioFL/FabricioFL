@@ -1,6 +1,6 @@
 ## Olá, meu nome é Fabrício 👾
 
-<img src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif">
+<img src="https://pa1.narvii.com/6406/276f23bf4a06ed5ac484dfba2147c2936da74634_hq.gif">
 
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
