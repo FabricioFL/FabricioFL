@@ -1,9 +1,7 @@
 ## Olá, meu nome é Fabrício 👾
 
 <div style="display: flex;">
-       <img src="https://c.tenor.com/ljyEowc6RBMAAAAC/konosuba-anime.gif">
-       <img src="https://c.tenor.com/9Wi3EC_XxwAAAAAM/happy-dance-dancing.gif">
-       <img src="https://c.tenor.com/wgV5tVDd24QAAAAC/konosuba-dance.gif">
+       <img src="https://i.pinimg.com/originals/8d/fc/61/8dfc61f7385699490966086385dd164f.gif">
 </div>
 
 #### > estou estudando atualmente:
