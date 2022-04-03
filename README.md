@@ -2,11 +2,12 @@
 ## Olá, meu nome é Fabrício, Sou um estudante de TI e desenvolvedor de software.
 
 <div style="display: flex;">
-       <img src="https://i.pinimg.com/originals/8d/fc/61/8dfc61f7385699490966086385dd164f.gif">
+       <img src="https://giffiles.alphacoders.com/211/211791.gif">
 </div>
 
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
+       ▶ tdd 🧪
        
 #### > tenho interesse em:
       ▶ backend ⚙️
@@ -18,9 +19,8 @@
 <div align='center'>
        <a align='center'>Minhas skills:</a><br><br>
        <div style="display: flex;flex-wrap: wrap;">
-               <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-              <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
               <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+              <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
               <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
               <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
        </div>
