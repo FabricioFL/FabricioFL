@@ -1,10 +1,6 @@
 
 ## Olá, meu nome é Fabrício, Sou um estudante de TI e desenvolvedor de software.
 
-<div style="display: flex;">
-       <img src="https://giffiles.alphacoders.com/211/211791.gif">
-</div>
-
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
        ▶ tdd 🧪
