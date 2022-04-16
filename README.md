@@ -32,7 +32,7 @@
               <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
        </div>
        <div style="display: flex;flex-wrap: wrap;">
-              <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+              <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
        </div>
 </div>
 <br>
