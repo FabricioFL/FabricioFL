@@ -18,7 +18,7 @@
 
 > [Recomenda api](https://music-recomenda.herokuapp.com/)
 
-> [Verificar cep](https://pesquisarcep.000webhostapp.com)
+> [Verificar cep](https://verificar-cep.herokuapp.com/)
 
 
 <br><br><br>
