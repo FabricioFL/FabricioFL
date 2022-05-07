@@ -4,6 +4,7 @@
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
        ▶ tdd 🧪
+       ▶ paralelismo
        
 #### > tenho interesse em:
       ▶ backend ⚙️
