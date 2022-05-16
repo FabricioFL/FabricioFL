@@ -17,9 +17,7 @@
 
 ## Projetos online:
 
-> [Recomenda frontend](https://fabriciofl.github.io/recomenda-frontend)
-
-> [Recomenda api](https://music-recomenda.herokuapp.com/api)
+> [Recomenda frontend](https://fabriciofl.github.io/recomenda-frontend)  | [Recomenda api](https://music-recomenda.herokuapp.com/api)
 
 > [Verificar cep](https://verificar-cep.herokuapp.com/)
 
