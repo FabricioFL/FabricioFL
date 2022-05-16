@@ -1,6 +1,7 @@
 
 ## Olá, meu nome é Fabrício, Sou um estudante de TI e desenvolvedor de software.
 
+
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
        ▶ tdd 🧪
@@ -25,6 +26,7 @@
 > [todolist api](https://todolist--api.herokuapp.com)
 
 
+
 <br><br><br>
 
 
@@ -47,6 +49,9 @@
 <div align="center"> 
   <br>
   <a>você pode falar comigo por esses meios (pode mandar mensagem a qualquer hora, quando estiver online eu respondo 🙃):</a>
+  <br>
+  <br>
+  <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
   <br>
   <br>
   <a href="http://wa.me/5599996448863"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" title='WathsApp'></a>
