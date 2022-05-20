@@ -1,5 +1,5 @@
 
-## Olá, meu nome é Fabrício, Sou um estudante de TI e desenvolvedor de software.
+## Olá, meu nome é Fabrício.
 
 
 #### > estou estudando atualmente:
