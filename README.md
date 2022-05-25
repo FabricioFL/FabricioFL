@@ -11,7 +11,6 @@
 #### > tenho interesse em:
       ▶ backend ⚙️
       ▶ jogos 🎮
-      ▶ arte digital 🎨
 
 <br>
 
