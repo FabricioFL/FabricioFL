@@ -51,7 +51,6 @@
   <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
   <br>
   <br>
-  <a href="http://wa.me/5599996448863"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" title='WathsApp'></a>
   <a href="https://twitter.com/Dev_Fabriciofl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" title='Twitter'></a>
   <a href="https://www.linkedin.com/in/fabricio-freitas-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"></a>  
 </div>
