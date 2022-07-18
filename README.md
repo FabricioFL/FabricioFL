@@ -5,6 +5,7 @@
 #### > estou estudando atualmente:
        ▶ laravel 🗂️
        ▶ tdd 🧪
+       ▶ php swoole 💡
        ▶ paralelismo ↔️
        ▶ assíncronismo 🔃
        
