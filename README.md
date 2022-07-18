@@ -48,9 +48,9 @@
   <a>você pode falar comigo por esses meios (pode mandar mensagem a qualquer hora, quando estiver online eu respondo 🙃):</a>
   <br>
   <br>
-  <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
-  <br>
-  <br>
   <a href="https://twitter.com/Dev_Fabriciofl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" title='Twitter'></a>
-  <a href="https://www.linkedin.com/in/fabricio-freitas-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"></a>  
+  <a href="https://www.linkedin.com/in/fabricio-freitas-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"></a>
+<br>
+<br>
+<img src="https://64.media.tumblr.com/4a3b008801798b91d89f8d68d2105a50/tumblr_oxsd3dr1Na1r5mt4oo1_500.gifv">
 </div>
